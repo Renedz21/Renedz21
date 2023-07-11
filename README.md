@@ -1,7 +1,7 @@
 # 😉 Hola, mi nombre es Edzon Perez 👋
 ### FullStack Developer y Estudidante de Ingenieria de Software
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Renedz21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Renedz21)](https://github.com/ryo-ma/github-profile-trophy)
 
 Soy estudiante de la carrera de Ingenieria de software
 
