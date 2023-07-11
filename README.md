@@ -1,16 +1,12 @@
 # 😉 Hola, mi nombre es Edzon Perez 👋
 ### FullStack Developer y Estudidante de Ingenieria de Software
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Renedz21)]
+//[![trophy](https://github-profile-trophy.vercel.app/?username=Renedz21)]
 
 Soy estudiante de la carrera de Ingenieria de software
 
 Desde la universidad empecé a programar Software a menor escala que ahora, pero eran proyectos antiguos y viejos, así que decidí que tenia que innovarme.
 Empecé a interesarme en el Software a mayor escala en Frontend y Backend con diferentes lenguajes de programación aplicados al mercado Actual.💎
-
-<div align="center">
-  <img src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/angular-to-react1200.png" height="100%" width="100%"/>
-</div>
 
 En 2020 llegó mi gran oportunidad de trabajar en desarrollo de Software en una empresa que me dio mucho en la vida y siempre estaré agradecido con eso.
 Aprendi Angular con Typescript como lenguaje principal en desarrollo Frontend y C# como lenguaje de Backend.
