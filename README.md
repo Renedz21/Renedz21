@@ -1,6 +1,6 @@
-# 👨‍💻 Brad Edzon Pérez Castillo
+# 👨‍💻 Brad Edzon Perez Castillo
 
-¡Hola! Soy **Brad Edzon Pérez Castillo**, un apasionado **Ingeniero de Software** (próximo a graduarme este año) con más de **4.5 años de experiencia** en el desarrollo web y móvil. Me especializo en **Frontend**, pero también tengo habilidades en **Backend**. 🚀
+¡Hola! Me llamo **Brad Edzon**, un apasionado **Ingeniero de Software** (próximo a graduarme este año) con más de **4.5 años de experiencia** en el desarrollo web y móvil. Me especializo en **Frontend**, pero también tengo habilidades en **Backend**. 🚀
 
 ## 🛠️ Tech Stack
 
